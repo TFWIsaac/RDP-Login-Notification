@@ -20,7 +20,7 @@ Mit Hilfe dieser Anleitung, könnt ihr euch mittels [Telegram](https://telegram.
 5. Unter "Sicherheitsoptionen" wählt ihr den Punkt "Unabhängig von der Benutzeranmeldung ausführen" aus.
 6. Unter dem Dropdown Menü "Konfigurieren für" wählt ihr die Versionstechnisch Höchste Server Einstellung aus.
 7. Als nächstes gehen wir auf den Tab "Trigger". Dort klicken wir auf den Button "Neu..." um einen neuen Trigger zu erstellen.
-8. Unter "Aufgabe starten:" wählen wir "Bei einem Ereignis" aus.
+8. Unter "Aufgabe starten:" wählen wir "Bei einem Ereignis" aus.*
 9. Unter Protokoll finden wir jetzt ein ganz langes Dropdown Menü. Wir wählen den Punkt "Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin" aus (solltet ihr die Liste nicht ganz sehen, wegen der Breite, ist es der erste Eintrag von beiden).
 10. Quelle kann leer gelassen werden. Unter "Ereignis-ID" tragt ihr die 20521 ein. 
 11. Das ganze könnt ihr dann mit OK bestätigen.
@@ -33,3 +33,8 @@ Mit Hilfe dieser Anleitung, könnt ihr euch mittels [Telegram](https://telegram.
 18. Sollte das klappen, steht dort dann nun euer vollständigen Name im Format Domäne\User. Das bestätigen wir mit Okay.
 19. Nun können wir die Aufgabe mit OK bestätigen, nun solltet ihr vom Server aufgefordert werden euer Passwort einzugeben. Dies macht ihr
 20. Wir haben die Aufgabe erfolgreich erstellt. Nun bekommt ihr die Nachrichten per Telegram :)
+
+
+
+
+* Dies ist nur eine Möglichkeit, wie es geht. Unter dieser Möglichkeit besteht im Nachhinein auch die Möglichkeit erfolglose Anmeldungen abzufangen
